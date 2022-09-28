@@ -1,6 +1,8 @@
 # PyBer_Analysis
 This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 5 Challenge. This challenge served as an introduction to Matplotlib and further experience with pandas. Topics covered including creating DataFrame visualizations and cleaning datasets. Final project work is in PyBer_Challenge.ipynb. 
 
+27 SEP 2022 - Updated repo to better organize files.
+
 ## Overview of the analysis
 The purpose of this analysis is to explain how the type of city (rural, suburban, or urban) affects the price of the fare for the ride. This relationship is important to understand because it impacts both the driver and rider. Riders prefer to pay lower fares, while drivers want to ensure they are being adequately compensated for their work. Looking at this data can help us determine if there are gaps or inconsistencies in this relationship that need to be addressed. 
 
